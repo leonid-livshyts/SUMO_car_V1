@@ -4,12 +4,14 @@ It is the car which finds it's oponents on it's own and pushes them out of the b
 
 # Components
 
-ESP8266
-L298n x2
-Motors 12V 370RPM x4
-SH-04 x2
-Chineese sensors of black line with adjustable with comparator.  x4
-Plastic wheels
+### ESP8266
+### L298n x2
+### Motors 12V 370RPM x4
+### SH-04 x2
+### Chineese sensors of black line with adjustable with comparator.  x4
+### Plastic wheels x4
+### DC-DC down converter 1A
+
 
 # Logic
 
