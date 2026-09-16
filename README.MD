@@ -11,7 +11,7 @@ It is the car which finds it's oponents on it's own and pushes them out of the b
 ### Chineese sensors of black line with adjustable with comparator.  x4
 ### Plastic wheels x4
 ### DC-DC down converter 1A
-
+### 18650 x3
 
 # Logic
 
